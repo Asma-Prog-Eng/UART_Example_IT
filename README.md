@@ -1,7 +1,7 @@
 # UART_Example_IT
 Bare metal implementation of a UART receiver in interrupt mode for STM32 development board
 ## Features
-UART2 initialization with tested baud rates (115200) 
+UART2 initialization with baud rate = 115200 bps
 Default pins are used : PA2= tx, PA3= rx
 ## Requirements
 Hardware <br />
